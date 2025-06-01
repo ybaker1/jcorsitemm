@@ -116,7 +116,7 @@ author:
   name             : "JCOR site Admin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "I am an **amazing** person."
-  location         : "Rhawnhurst, Philadelphia, Pennsylvania, USA"
+  location         : "Rhawnhurst, Philadelphia, PA, USA"
   email            :
   links:
     - label: "Email"
