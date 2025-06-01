@@ -11,30 +11,30 @@ Welcome to the Jewish Community of Rhawnhurst (JCOR) – a vibrant, welcoming, a
 
 ### What We're Known For
 
-**Affordability & Quality of Life**  
+#### **Affordability & Quality of Life**  
 - Lower cost of living and housing compared to other major Jewish centers.  
 - Yeshiva tuition made more affordable through Pennsylvania’s EITC program
 - Stores with parking lots and ample residential parking – minimal traffic.  
 
-**Learning & Torah-Centered Living**  
+#### **Learning & Torah-Centered Living**  
 - High standards of Torah learning are a cornerstone of our community.  
 - Numerous shiurim and learning opportunities in local [shuls](#shuls-directory).  
 - A vibrant [Kollel](#kollel) that serves as a hub for spiritual growth across all backgrounds.  
 
-**Location, Location, Location**  
+#### **Great Location & Proximity to Other Jewish Areas**  
 - Easy access to Lakewood, Baltimore, and New York City.
 - Enjoy all the career and infrastructure benefits of a major East Coast city.  
 
-**Community Values**  
+#### **Community Values**  
 - A quiet, residential neighborhood with no nightlife.  
 - Not marked by materialism; we value modesty and simplicity.  
 - Strong out-of-town spirit – everyone counts.
 
-**Inclusive Orthodox Diversity**  
+#### **Inclusive Orthodox Diversity**  
 - Diversity within Orthodoxy: everyone is accepted and respected.  
 - You’ll find your place in a [shul](#shuls-directory) and still feel welcome in all.  
 
-**Family & Education**  
+#### **Family & Education**  
 - Several [schools](#schools) serve the educational needs of our children.  
 - [Kosher food](#kosher-info) and [dining](#dining) options are adequate and accessible.  
 
