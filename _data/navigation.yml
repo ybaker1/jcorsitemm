@@ -1,12 +1,25 @@
 # main links
 main:
-  - title: "Home"
-    url: index
-  #- title: "About"
-  # url: https://mmistakes.github.io/minimal-mistakes/about/
-  #- title: "Sample Posts"
-  # url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About"
+    url: /#about
+
+  - title: "Shuls"
+    url: /#shuls-directory
+
+  - title: "Kollel"
+    url: /#kollel
+
+  - title: "Schools"
+    url: /#schools
+
+  - title: "Kosher Info"
+    url: /#kosher-info
+
+  - title: "Dining"
+    url: /#dining
+
+  - title: "Eruv"
+    url: /#eruv-info
+
+  - title: "Email Group"
+    url: /#email-group
