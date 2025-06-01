@@ -132,22 +132,6 @@ The Rhawnhurst Eruv encompasses a large residential section of Northeast Philade
 
 ---
 
-## 🎥 JCOR Video {#jcor-video}
-
-Watch our introductory video about JCOR and Jewish life in Rhawnhurst:  
-[JCOR Video](https://vimeo.com/210610668)
-
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
-  <iframe src="https://player.vimeo.com/video/210610668" 
-          style="position:absolute;top:0;left:0;width:100%;height:100%;" 
-          frameborder="0" 
-          allow="autoplay; fullscreen; picture-in-picture" 
-          allowfullscreen>
-  </iframe>
-</div>
-
----
-
 ## 📖 Kollel {#kollel}
 
 
