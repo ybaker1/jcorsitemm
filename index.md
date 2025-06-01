@@ -1,9 +1,13 @@
 ---
 layout: single
+sidebar:
+  nav: null  # Ensures no nav shows
+  toc: true
 title: "Welcome to JCOR"
 toc: true
 toc_label: "On this page"
 toc_sticky: true
+
 ---
 ## About Us {#about}
 

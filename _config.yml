@@ -227,7 +227,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:path/
 timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
