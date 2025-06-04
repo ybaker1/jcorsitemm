@@ -1,9 +1,10 @@
 ---
 layout: single
-title: "Welcome to JCOR"
+title: "JCOR | Orthodox Community in Rhawnhurst, Northeast Philadelphia"
 toc: true
 toc_label: "On this page"
 toc_sticky: true
+description: "Welcome to the Jewish Community of Rhawnhurst (JCOR) – a vibrant Orthodox community in Northeast Philadelphia. Find info on local shuls, the eruv, kosher resources, and community connections."
 ---
 ## About Us {#about}
 
