@@ -275,6 +275,11 @@ Support or volunteer opportunities within our community:
 6063 Drexel Road  
 📞 215-477-1000
 
+**Yeshiva and Mesivta of Greater Philadelphia**  
+8201 Castor Ave, Philadelphia, PA 19152  
+📞 215-240-1267  
+🌐 [yamogp.org](https://yamogp.org)
+
 ---
 
 ## 🥬 Kosher Info {#kosher-info}
