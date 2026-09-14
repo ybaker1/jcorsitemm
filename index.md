@@ -124,7 +124,7 @@ The Rhawnhurst Eruv encompasses a large residential section of Northeast Philade
 ### 📍 Eruv Map
 
 <div style="position:relative;padding-bottom:75%;height:0;overflow:hidden;">
-  <iframe src="https://www.google.com/maps/d/embed?mid=1Brt1NrCZQHS5PxmnZWClVy6g5xY&hl=en&ehbc=2E312F" 
+  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=18xpArWe3BIxPziXzXyIsuUXNnn-qkdY&ehbc=2E312F" 
           style="position:absolute;top:0;left:0;width:100%;height:100%;" 
           frameborder="0" 
           allowfullscreen>
