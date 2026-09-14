@@ -121,7 +121,7 @@ The Rhawnhurst Eruv encompasses a large residential section of Northeast Philade
 
 **Eruv status is shared weekly via the [JCOR Email Group](https://groups.io/g/JCOR-NE-Philadelphia).** Please check the group each week before Shabbat.
 
-You can help sustain this weekly upkeep by [sponsoring the Eruv for $50](https://form.jotform.com/260873474923163) in honor of a simcha or in memory of a loved one.
+You can help sustain this weekly upkeep by [sponsoring the Eruv for $50](https://form.jotform.com/260873474923163) in honor of a simcha or in memory of a loved one, with your sponsorship acknowledged in the weekly eruv status email.
 
 ### 📍 Eruv Map
 
